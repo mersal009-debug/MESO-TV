@@ -1,3 +1,6 @@
 {
-  "version": "4.2.1"
+  "version": "4.0.2",
+  "android": "https://github.com/mersal009-debug/MESO-TV/releases/download/4.0.2/app-release.apk",
+  "windows": "https://github.com/mersal009-debug/MESO-TV/releases/download/4.0.2/meso-setup.exe",
+  "notes": "تحسينات واصلاحات..."
 }
